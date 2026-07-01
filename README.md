@@ -6,18 +6,6 @@
 
 ---
 
-## What You'll Do
-
-* Design and build infrastructure for deploying, scaling, and managing AI/ML workloads
-* Develop automation for GPU cluster provisioning, configuration, and orchestration
-* Build systems for hardware-aware model deployment and inference optimization
-* Create tooling for AI infrastructure observability, debugging, and performance tuning
-* Work on integration between hardware intelligence and ML frameworks
-* Collaborate with customers deploying large-scale AI systems in production
-* Optimize resource utilization across heterogeneous compute (GPUs, TPUs, custom accelerators)
-
----
-
 ## What You Bring
 
 **Strong experience with:**
@@ -37,12 +25,6 @@
 * Storage systems for ML workloads (distributed filesystems, object storage)
 * Infrastructure as Code and GitOps workflows
 
----
-
-## What We're Looking For
-
-We're looking for an AI infrastructure engineer who understands the full stack from silicon to model serving — and can build systems that make AI deployment effortless.
-
 **You should have:**
 
 * Deep understanding of what it takes to run AI workloads at scale
@@ -57,19 +39,6 @@ We're looking for an AI infrastructure engineer who understands the full stack f
 * 3+ years of experience in ML infrastructure, MLOps, or AI platform engineering
 * Willingness to work startup hours, in-person (weekends included) at our San Francisco office
 * Work authorization in the United States
-
----
-
-## Why Join
-
-We're building the intelligence layer for hardware — real-time systems that control physical machines with zero tolerance for latency or failure.
-
-**What we offer:**
-
-* Startup-level equity and highly competitive salary
-* Ownership over AI infrastructure that powers next-generation systems
-* Problems at the intersection of hardware intelligence and machine learning
-* Close collaboration with customers pushing the boundaries of AI deployment
 
 ---
 
