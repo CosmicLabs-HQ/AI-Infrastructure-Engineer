@@ -1,4 +1,4 @@
-# Member of Technical Staff, AI-Infrastructure-Engineer
+# Member of Technical Staff, AI Infrastructure Engineer
 
 **Location:** San Francisco (Onsite)  
 **Type:** Full-time  
